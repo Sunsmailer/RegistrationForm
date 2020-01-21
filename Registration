@@ -8,8 +8,6 @@
        <label>Фамилия
         <input type="text">
        </label>
-    <br>
-    <br>
        <select>
         <option disabled>В каком классе учишься?</option>
         <option>1</option>
